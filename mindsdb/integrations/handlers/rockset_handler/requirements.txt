@@ -1,0 +1,2 @@
+rockset
+-r mindsdb/integrations/handlers/mysql_handler/requirements.txt

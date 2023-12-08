@@ -1,0 +1,2 @@
+lightwood[all_extras] >= 23.11.1.0
+type-infer
